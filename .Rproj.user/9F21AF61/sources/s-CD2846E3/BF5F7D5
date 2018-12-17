@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545049008342.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BF5F7D5",
+    "lastKnownWriteTime" : 1545049834,
+    "last_content_update" : 1545049834530,
+    "path" : "C:/Users/Benjamin Schlegel/OneDrive - uzh.ch/01_UZH/02_teaching/2018_02_R Programming Skills/Woche 14/optimalImporter/R/type_converter.R",
+    "project_path" : "R/type_converter.R",
+    "properties" : {
+        "cursorPosition" : "29,15",
+        "scrollLine" : "12"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

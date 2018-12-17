@@ -1,0 +1,15 @@
+Package: optimalImporter
+Type: Package
+Title: Converts vectors to optimal storage types
+Version: 0.0-1.9000
+Author: Simon Pressler, Müge Özlutiras, Claudia Faltermeier, Benjamin Schlegel
+Maintainer: Benjamin Schlegel <kontakt@benjaminschlegel.ch>
+Description: Simon Pressler was too lazy to write a description. The others too.
+License: GPL (>=2)
+Depends: utils
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+Packaged: 2018-12-17 12:31:20 UTC; Benjamin Schlegel
+Built: R 3.5.1; ; 2018-12-17 12:31:27 UTC; windows
